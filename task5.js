@@ -1,4 +1,4 @@
-const API_KEY = 'dedd63b1ac187ffb6460a7f4f42a03f4'; // Your OpenWeatherMap API key
+const API_KEY = 'YOUR WEATHER_API'; // Your OpenWeatherMap API key
 const searchBtn = document.getElementById('search-btn');
 const locationBtn = document.getElementById('location-btn');
 const weatherInfo = document.getElementById('weather-info');
